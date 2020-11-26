@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7717e0a4-c8cb-4f24-b82f-82fd4c6573ca" name="Default Changelist" comment="site">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anglais/indexEn.html" beforeDir="false" afterPath="$PROJECT_DIR$/anglais/indexEn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7717e0a4-c8cb-4f24-b82f-82fd4c6573ca" name="Default Changelist" comment="mise à jour anglais" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +64,7 @@
       <workItem from="1606050334051" duration="278000" />
       <workItem from="1606117766871" duration="386000" />
       <workItem from="1606377556649" duration="1155000" />
-      <workItem from="1606416793715" duration="792000" />
+      <workItem from="1606416793715" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <created>1606117864782</created>
@@ -77,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606117864782</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mise à jour anglais">
+      <created>1606417634346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606417634346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mise à jour anglais">
+      <created>1606417730473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606417730473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,16 +107,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="site" />
-    <option name="LAST_COMMIT_MESSAGE" value="site" />
+    <MESSAGE value="mise à jour anglais" />
+    <option name="LAST_COMMIT_MESSAGE" value="mise à jour anglais" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606118152779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606118152779" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606117868292">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606417734303">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606117868292" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606417734303" />
   </component>
 </project>
