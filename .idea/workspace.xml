@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7717e0a4-c8cb-4f24-b82f-82fd4c6573ca" name="Default Changelist" comment="mise à jour CV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anglais/indexEn.html" beforeDir="false" afterPath="$PROJECT_DIR$/anglais/indexEn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../wamp64/www/C-DEV-121-MAR-1-1-twp-isabelle.manservisi/mvvm_twp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +71,7 @@
       <workItem from="1606377556649" duration="1155000" />
       <workItem from="1606416793715" duration="1495000" />
       <workItem from="1606464401793" duration="440000" />
+      <workItem from="1607187523462" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <created>1606117864782</created>
@@ -97,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606418287306</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mise à jour CV">
+      <created>1607187619729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607187619729</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mise à jour CV">
+      <created>1607187781311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607187781311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,15 +138,5 @@
     <MESSAGE value="mise à jour anglais" />
     <MESSAGE value="mise à jour CV" />
     <option name="LAST_COMMIT_MESSAGE" value="mise à jour CV" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606464841406">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606464841406" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606418288822">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606418288822" />
   </component>
 </project>
