@@ -20,11 +20,11 @@ jQuery(document).ready(function( $ ) {
 
   // JavaScript Chart
   var doughnutData = [{
-      value: 60,
+      value: 50,
       color: "#1abc9c"
     },
     {
-      value: 40,
+      value: 50,
       color: "#ecf0f1"
     }
   ];
@@ -32,11 +32,11 @@ jQuery(document).ready(function( $ ) {
 
   // Bootstrap Chart
   var doughnutData = [{
-    value: 60,
+    value: 50,
     color: "#1abc9c"
   },
   {
-    value: 40,
+    value: 50,
     color: "#ecf0f1"
   }
   ];
@@ -44,11 +44,11 @@ jQuery(document).ready(function( $ ) {
 
   // MySql Chart
   var doughnutData = [{
-    value: 50,
+    value: 40,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 60,
     color: "#ecf0f1"
   }
   ];
@@ -56,11 +56,11 @@ jQuery(document).ready(function( $ ) {
 
   // HTML Chart
   var doughnutData = [{
-    value: 50,
+    value: 40,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 60,
     color: "#ecf0f1"
   }
   ];
@@ -80,11 +80,11 @@ jQuery(document).ready(function( $ ) {
 
   // PHP Chart
   var doughnutData = [{
-    value: 50,
+    value: 40,
     color: "#1abc9c"
   },
   {
-    value: 50,
+    value: 60,
     color: "#ecf0f1"
   }
   ];
