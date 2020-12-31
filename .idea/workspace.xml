@@ -10,12 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7717e0a4-c8cb-4f24-b82f-82fd4c6573ca" name="Default Changelist" comment="mise à jour CV">
-      <change afterPath="$PROJECT_DIR$/img/Screen1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anglais/indexEn.html" beforeDir="false" afterPath="$PROJECT_DIR$/anglais/indexEn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    <list default="true" id="7717e0a4-c8cb-4f24-b82f-82fd4c6573ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CV Isabelle Manservisi.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/CV Isabelle Manservisi.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../wamp64/www/ECP/pff" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -75,6 +73,7 @@
       <workItem from="1606464401793" duration="440000" />
       <workItem from="1607187523462" duration="463000" />
       <workItem from="1607792467516" duration="2587000" />
+      <workItem from="1609425472982" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="site">
       <created>1606117864782</created>
@@ -125,7 +124,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607187915925</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mise à jour CV">
+      <created>1609425585581</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609425585581</updated>
+    </task>
+    <task id="LOCAL-00009" summary="mise à jour CV">
+      <created>1609425617540</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609425617540</updated>
+    </task>
+    <task id="LOCAL-00010" summary="mise à jour CV">
+      <created>1609425678178</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609425678178</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
