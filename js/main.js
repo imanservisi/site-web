@@ -66,13 +66,13 @@ jQuery(document).ready(function( $ ) {
   ];
   var myDoughnut = new Chart(document.getElementById("html").getContext("2d")).Doughnut(doughnutData);
 
-  // Python Chart
+  // JAVA Chart
   var doughnutData = [{
-    value: 60,
+    value: 50,
     color: "#1abc9c"
   },
   {
-    value: 40,
+    value: 50,
     color: "#ecf0f1"
   }
   ];
